@@ -36,6 +36,7 @@ we used a custom trained model to assign moods to movies by inferring from their
 To run voice model, we have made a separate file for it, we did not have time to integrate it into the main application.
 run: ```streamlit run voice.py ```
 
+=======
 ## 🧠 Features
 
 - AI-powered personalized movie recommendations
