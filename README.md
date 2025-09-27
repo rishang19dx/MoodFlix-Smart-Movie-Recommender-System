@@ -31,6 +31,12 @@ With the rise of OTT platforms, users are overwhelmed by the vast number of cont
 we used a custom trained model to assign moods to movies by inferring from their overviews, to use that model, please load the model [weights](https://drive.google.com/drive/folders/1nI_oh_hDGofhzUgWFaQtgpWmUyUY8Pd8?usp=sharing) into the ```KnowledgeBase``` directory.
 
 
+
+## Note
+To run voice model, we have made a separate file for it, we did not have time to integrate it into the main application.
+run: ```streamlit run voice.py ```
+
+=======
 ## 🧠 Features
 
 - AI-powered personalized movie recommendations
